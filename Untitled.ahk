@@ -1,4 +1,5 @@
-﻿Gui, +AlwaysOnTop
+aFIQ WAS HERE
+Gui, +AlwaysOnTop
 Gui, Add, Text,, ============Virtual Piano (v 1.1)============
 Gui, Add, Text,, -----------------------------------------------PASTE SHEETS HERE------------------------------------------------
 Gui, Add, Edit, R10 w400 vPianoMusic
