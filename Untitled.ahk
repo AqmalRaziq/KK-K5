@@ -1,5 +1,5 @@
 ﻿Gui, +AlwaysOnTop
-Gui, Add, Text,, ============Roblox Virtual Piano In-Game Styled Autoplayer (v 1.1)============
+Gui, Add, Text,, ============Virtual Piano (v 1.1)============
 Gui, Add, Text,, -----------------------------------------------PASTE SHEETS HERE------------------------------------------------
 Gui, Add, Edit, R10 w400 vPianoMusic
 Gui, Add, Text,, Press the - = [ ] keybinds to start autoplaying. you'll need to play by rhythm.
